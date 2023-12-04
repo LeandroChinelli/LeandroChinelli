@@ -2,7 +2,7 @@
 
 ## About me 📝
 
-I'am Leandro Chinelli
+I am Leandro Chinelli
 
 I am a data engineer with a consolidated professional background in the data world, focused on building pipelines, analyses, visualizations, and immersed in the ever-expanding universe of artificial intelligence. 
 Passionate about what I do and always focused on generating value and problem-solving.

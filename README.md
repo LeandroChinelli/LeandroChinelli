@@ -28,7 +28,7 @@ Passionate about what I do and always focused on generating value and problem-so
 <img  src="https://img.shields.io/badge/-Microsoft%20Azure-%230078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
 <img  src="https://img.shields.io/badge/Google_Cloud-FFFFFF?style=for-the-badge&logo=Google%20Cloud">
 
-## Framewroks 🛠️
+## Tools and Framewroks 🛠️
 <div align="left">
 <img  src="https://img.shields.io/badge/-Apache%20Spark-%23E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white">
 <img  src="https://img.shields.io/badge/-Apache%20Airflow-%2316132F?style=for-the-badge&logo=ApacheAirflow&logoColor=white"> 

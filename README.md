@@ -72,9 +72,5 @@ Passionate about what I do and always focused on generating value and problem-so
 </div>
 
 ## Contacts 📞
-<div align="left">
-    <a href="https://www.linkedin.com/in/leandrochinelli-datadriven" target="_blank"> 
-        <img  alt="linkedin" src="https://img.shields.io/badge/%20-Linkedin-%230A66C2?logo=linkedin&style=for-the-badge">
-    <a href="mailto:leandrochinellip@gmail.com" target="_blank"> 
-        <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?logo=gmail&style=for-the-badge&logoColor=white">
-</div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrochinelli-datadriven)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrochinellip@gmail.com)

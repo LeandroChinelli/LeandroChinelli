@@ -46,6 +46,7 @@ Passionate about what I do and always focused on generating value and problem-so
   <img src="https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-03BB85?style=for-the-badge&logo=FastAPI">
   <img src="https://img.shields.io/badge/-Snowflake-%2329B5E8?style=for-the-badge&logo=Snowflake&logoColor=white">
+  <img src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
 </div>
 
 ## Database 🗃️
